@@ -1,0 +1,33 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.oxagile.com" />
+          <option name="userName" value="severinetsdl" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.oxagile.com/qa_automation/dsl-automation-template" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.koslo.org" />
+          <option name="userName" value="severinetsdl" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.koslo.org/koslo/koslo-automation" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.koslo.org:koslo/koslo-automation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.oxagile.com/gaia/gaia" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Documents" />
+  </component>
+</application>
