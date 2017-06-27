@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="commons-io:commons-io:2.5" type="repository">
+      <properties maven-id="commons-io:commons-io:2.5" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="dmax-testng-reporter-2.1.4.3">
       <CLASSES>
         <root url="jar://$USER_HOME$/Documents/dmax-testng-reporter-2.1.4.3.jar!/" />
@@ -7,10 +15,10 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="org.codehaus.groovy.modules.http-builder:http-builder:0.7" type="repository">
-      <properties maven-id="org.codehaus.groovy.modules.http-builder:http-builder:0.7" />
+    <library name="org.codehaus.groovy.modules.http-builder:http-builder:0.7.1" type="repository">
+      <properties maven-id="org.codehaus.groovy.modules.http-builder:http-builder:0.7.1" />
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/modules/http-builder/http-builder/0.7/http-builder-0.7.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/modules/http-builder/http-builder/0.7.1/http-builder-0.7.1.jar!/" />
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.2.1/httpclient-4.2.1.jar!/" />
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.2.1/httpcore-4.2.1.jar!/" />
         <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar!/" />
