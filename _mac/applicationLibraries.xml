@@ -15,6 +15,13 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="groovy-all-2.4.11">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Downloads/groovy-all-2.4.11.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="org.codehaus.groovy.modules.http-builder:http-builder:0.7.1" type="repository">
       <properties maven-id="org.codehaus.groovy.modules.http-builder:http-builder:0.7.1" />
       <CLASSES>
