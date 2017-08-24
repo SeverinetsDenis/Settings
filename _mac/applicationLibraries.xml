@@ -72,6 +72,17 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="org.apache.logging.log4j:log4j-api:2.8" type="repository">
+      <properties maven-id="org.apache.logging.log4j:log4j-api:2.8" />
+      <CLASSES>
+        <root url="jar://$USER_HOME$/gaia/libs/log4j-api-2.8.jar!/" />
+        <root url="jar://$USER_HOME$/gaia/libs/org.osgi.core-4.3.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/gaia/libs/log4j-api-2.8-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="org.codehaus.groovy.modules.http-builder:http-builder:0.7.11" type="repository">
       <properties maven-id="org.codehaus.groovy.modules.http-builder:http-builder:0.7.1" />
       <CLASSES>
